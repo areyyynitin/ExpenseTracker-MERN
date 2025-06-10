@@ -24,7 +24,7 @@ const Input = ({value , onChange ,placeholder,label,type}) => {
 
             {type === "password" && (
               
-                {showPassword} ? (
+                showPassword ? (
                   <FaRegEye
                   size={22}
                   className='text-primary cursor-pointer'
