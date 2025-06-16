@@ -1,4 +1,0 @@
-dont fucking put space or enter after entering jwt token
-
-basic => 
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NTAxNTc1MDY2ZWQ0YTczNjZiMjYxYSIsImlhdCI6MTc1MDA3ODgzOCwiZXhwIjoxNzUwMDgyNDM4fQ.iLewc2kdDIIBiRtlYFMmXgJB2RXX3YLTPxI8-ImhLP8
