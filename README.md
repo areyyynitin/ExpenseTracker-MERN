@@ -1,0 +1,1 @@
+dont fucking put space or enter after entering jwt token
